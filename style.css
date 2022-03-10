@@ -1,7 +1,9 @@
 body{
-    color:cornflowerblue;
+    /* styling the text color, font, size, and background color*/
+    color:rgb(60, 114, 214);
     font-family: 'Fredoka', sans-serif;
     font-size: 18px;
+    background: rgb(233, 233, 233);
     
 }
 
@@ -12,9 +14,14 @@ h1{
 /* referencing the portrait class in the html*/
 .portrait{
     height: 300px;
+    
 }
 
 section{
     margin: 5px;
     padding: 5px;
+}
+
+footer{
+    background: #000000;
 }
