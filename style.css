@@ -1,7 +1,17 @@
 body{
     color:cornflowerblue;
     font-family: 'Fredoka', sans-serif;
+    font-size: 18px;
     
+}
+
+h1{
+    background: black;
+    text-align: center;
+}
+
+.portrait{
+    height: 300px;
 }
 
 /* h1 {
